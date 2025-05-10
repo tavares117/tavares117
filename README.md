@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Lucas da Silva Tavares]
+# 👋 Olá! Eu sou Lucas da Silva Tavares
 
 🎓 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** (1º semestre)  
 💻 Apaixonado por **tecnologia**, programação e inovação  
@@ -13,8 +13,10 @@
 - Versionamento com Git e GitHub
 
 ### 📫 Como me encontrar:
-- [https://www.linkedin.com/in/lucas-da-silva-tavares-/) 
-- Email: tavares.lucas1340@gmail.com
+🔗 LinkedIn: [https://www.linkedin.com/in/lucas-da-silva-tavares-/) 
+🔗 Email: tavares.lucas1340@gmail.com
 
 Vamos crescer juntos no mundo da tecnologia! 💡🚀
+
+
 
