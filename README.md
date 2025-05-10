@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Lucas da Silva Tavares!
+# 👋 Olá, eu sou o Lucas!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – 1º semestre  
 💻 Apaixonado por **tecnologia** e pelo processo de **aprender constantemente**  
