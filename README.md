@@ -8,7 +8,7 @@
 ---
 
 ### 💡 Atualmente aprendendo:
-- Lógica de programação
+- Lógica de programação (JAVA)
 - Algoritmos e estrutura de dados
 - HTML, CSS e JavaScript
 - Git e GitHub
